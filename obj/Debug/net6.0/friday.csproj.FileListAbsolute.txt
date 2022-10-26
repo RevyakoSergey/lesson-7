@@ -1,0 +1,15 @@
+C:\Users\Sony\OneDrive\Рабочий стол\friday\bin\Debug\net6.0\friday.exe
+C:\Users\Sony\OneDrive\Рабочий стол\friday\bin\Debug\net6.0\friday.deps.json
+C:\Users\Sony\OneDrive\Рабочий стол\friday\bin\Debug\net6.0\friday.runtimeconfig.json
+C:\Users\Sony\OneDrive\Рабочий стол\friday\bin\Debug\net6.0\friday.dll
+C:\Users\Sony\OneDrive\Рабочий стол\friday\bin\Debug\net6.0\friday.pdb
+C:\Users\Sony\OneDrive\Рабочий стол\friday\obj\Debug\net6.0\friday.csproj.AssemblyReference.cache
+C:\Users\Sony\OneDrive\Рабочий стол\friday\obj\Debug\net6.0\friday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\OneDrive\Рабочий стол\friday\obj\Debug\net6.0\friday.AssemblyInfoInputs.cache
+C:\Users\Sony\OneDrive\Рабочий стол\friday\obj\Debug\net6.0\friday.AssemblyInfo.cs
+C:\Users\Sony\OneDrive\Рабочий стол\friday\obj\Debug\net6.0\friday.csproj.CoreCompileInputs.cache
+C:\Users\Sony\OneDrive\Рабочий стол\friday\obj\Debug\net6.0\friday.dll
+C:\Users\Sony\OneDrive\Рабочий стол\friday\obj\Debug\net6.0\refint\friday.dll
+C:\Users\Sony\OneDrive\Рабочий стол\friday\obj\Debug\net6.0\friday.pdb
+C:\Users\Sony\OneDrive\Рабочий стол\friday\obj\Debug\net6.0\friday.genruntimeconfig.cache
+C:\Users\Sony\OneDrive\Рабочий стол\friday\obj\Debug\net6.0\ref\friday.dll
